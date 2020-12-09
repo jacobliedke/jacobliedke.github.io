@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I am a senior at the George Washington University studying political communication in the School of Media and Public Affairs. I am passionate about learning more about the relationship between new media technologies and forms of contentious political behavior.
 
-Connect with me on [Linkedin]"https://www.linkedin.com/in/jacob-liedke/"
+Connect with me on [Linkedin](https://www.linkedin.com/in/jacob-liedke/)
 
 ### Markdown
 
