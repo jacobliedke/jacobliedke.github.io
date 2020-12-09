@@ -38,4 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Contact me at jacobliedke@gmail.com or @liedkejacob on Twitter!
+Contact me at jacobliedke@gmail.com or [@liedkejacob](https://twitter.com/liedkejacob) on Twitter!
