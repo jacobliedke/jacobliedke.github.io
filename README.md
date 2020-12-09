@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/jacobliedke/jacobliedke.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-I am a graduating senior at the George Washington University studying political communication in the School of Media and Public Affairs.
+I am a senior at the George Washington University studying political communication in the School of Media and Public Affairs. I am passionate about learning more about the relationship between new media technologies and forms of contentious political behavior.
 
 ### Markdown
 
