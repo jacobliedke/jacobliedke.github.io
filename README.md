@@ -7,6 +7,14 @@ I am a senior at the George Washington University studying political communicati
 
 My resume can be viewed [here.](https://jacobliedke.github.io/Resume/index.pdf)
 
+### Research
+
+You can read some of my research papers from my undergraduate courses below.
+
+[Here](https://jacobliedke.github.io/Research/performancec_in_polcomm.pdf) is my final paper from my Introduction to Political Communication course during my sophomore year. The paper is a literature review of performance as a consistent theme throughout the field of political communication.
+
+[Here](https://jacobliedke.github.io/Research/data_analysis_research.pdf) is my final research paper from my Data Analysis course during my junior year. The survey research sought to investigate how people would respond to priming of a political candidate's inconsistent record.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
