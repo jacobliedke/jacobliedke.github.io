@@ -2,7 +2,7 @@
 
 I am a senior at the George Washington University studying political communication in the School of Media and Public Affairs. I am passionate about learning more about the relationship between new media technologies and forms of contentious political behavior.
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/jacob-liedke/)
+
 
 ### Markdown
 
@@ -30,3 +30,5 @@ Syntax highlighted code block
 ### Support or Contact
 
 Contact me at jacobliedke@gmail.com or follow me [@liedkejacob](https://twitter.com/liedkejacob) on Twitter!
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/jacob-liedke/)
