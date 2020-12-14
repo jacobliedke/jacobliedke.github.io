@@ -4,6 +4,8 @@ I am a senior at the George Washington University studying political communicati
 
 ### R Projects
 
+[Here](https://jacobliedke.github.io/RHomework/) is one of my R projects from earlier this semester. This HTML site was built in R Studio using R Markdown and it visualizes how some House Democrats voted during the impeachment of Donald Trump.
+
 ### Resume
 
 My resume can be viewed [here.](https://jacobliedke.github.io/Resume/index.pdf)
