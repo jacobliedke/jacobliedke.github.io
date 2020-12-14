@@ -18,30 +18,7 @@ You can read some of my research papers from my undergraduate courses below.
 
 You can also access my final research paper from my Data Analysis course [here](https://jacobliedke.github.io/Research/data_analysis_research.pdf). The survey research sought to investigate how people would respond to priming of a political candidate's inconsistent record.
 
-[My final paper](https://jacobliedke.github.io/Research/performancec_in_polcomm.pdf) from my Introduction to Political Communication course is a literature review discussing the concept of performance as a consistent theme throughout the field of political communication.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+My final paper from Introduction to Political Communication was a literature review discussing the concept of performance as a consistent theme throughout the field of political communication. It can be accessed [here](https://jacobliedke.github.io/Research/performancec_in_polcomm.pdf).
 
 ### Support or Contact
 
