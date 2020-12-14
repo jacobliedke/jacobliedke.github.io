@@ -16,9 +16,9 @@ You can read some of my research papers from my undergraduate courses below.
 
 [Here](https://jacobliedke.github.io/Research/whole_country_is_watching.pdf) is the final copy of my undergraduate thesis, titled The Whole Country Is Watching: National Cable News Coverage of the Police Shooting of Jacob Blake and Subsequent Protests in Kenosha, Wisconsin. The research explores how cable television news framed the shooting of Jacob Blake, the protests that followed, as well as the shooting by Kyle Rittenhouse a few nights later.
 
-You can also access my final research paper from my Data Analysis course [Here](https://jacobliedke.github.io/Research/data_analysis_research.pdf). The survey research sought to investigate how people would respond to priming of a political candidate's inconsistent record.
+You can also access my final research paper from my Data Analysis course [here](https://jacobliedke.github.io/Research/data_analysis_research.pdf). The survey research sought to investigate how people would respond to priming of a political candidate's inconsistent record.
 
-[Here](https://jacobliedke.github.io/Research/performancec_in_polcomm.pdf) is my final paper from my Introduction to Political Communication course from my sophomore year. The paper is a literature review discussing performance as a consistent theme throughout the field of political communication.
+[My final paper](https://jacobliedke.github.io/Research/performancec_in_polcomm.pdf) from my Introduction to Political Communication course is a literature review discussing the concept of performance as a consistent theme throughout the field of political communication.
 
 ### Markdown
 
