@@ -995,11 +995,11 @@ FL
   select(first_name, last_name, state, district)
 view(no_impeachR)
 no_impeachR %&gt;%
-  kbl(caption = &quot;Impeachment NO votes that represent districts that supported Trump in 2016&quot;) %&gt;%
+  kbl(caption = &quot;Impeachment NO votes that represent districts that Trump won in 2016&quot;) %&gt;%
     kable_classic(full_width = F, html_font = &quot;Cambria&quot;)</code></pre>
 <table class=" lightable-classic" style="font-family: Cambria; width: auto !important; margin-left: auto; margin-right: auto;">
 <caption>
-Impeachment NO votes that represent districts that supported Trump in 2016
+Impeachment NO votes that represent districts that Trump won in 2016
 </caption>
 <thead>
 <tr>
@@ -1237,11 +1237,11 @@ NJ
   select(first_name, last_name, party, state, district)
 
 no_impeachR12 %&gt;%
-  kbl(caption = &quot;Impeachment NO votes that represent district that supported Republicans in 2016 and 2012&quot;) %&gt;%
+  kbl(caption = &quot;Impeachment NO votes that represent districts that Republicans won in 2016 and 2012&quot;) %&gt;%
     kable_classic(full_width = F, html_font = &quot;Cambria&quot;)</code></pre>
 <table class=" lightable-classic" style="font-family: Cambria; width: auto !important; margin-left: auto; margin-right: auto;">
 <caption>
-Impeachment NO votes that represent district that supported Republicans in 2016 and 2012
+Impeachment NO votes that represent districts that Republicans won in 2016 and 2012
 </caption>
 <thead>
 <tr>
@@ -2753,11 +2753,11 @@ PA
   arrange(desc(clinton_percent))
 
 yes_impeachment_clinton70 %&gt;%
-  kbl(caption = &quot;Impeachment YES votes that represent districts that supported Clinton in 2016 by more than 70%&quot;) %&gt;%
+  kbl(caption = &quot;Impeachment YES votes that represent districts that supported Clinton by more than 70% in 2016&quot;) %&gt;%
     kable_classic(full_width = F, html_font = &quot;Cambria&quot;)</code></pre>
 <table class=" lightable-classic" style="font-family: Cambria; width: auto !important; margin-left: auto; margin-right: auto;">
 <caption>
-Impeachment YES votes that represent districts that supported Clinton in 2016 by more than 70%
+Impeachment YES votes that represent districts that supported Clinton by more than 70% in 2016
 </caption>
 <thead>
 <tr>
@@ -3724,11 +3724,11 @@ no_impeachment_bach &lt;- impeach[order(impeach$pct_bachelors),] %&gt;%
   select(first_name, last_name, state, district, pct_bachelors)
 
 no_impeachment_bach %&gt;%
-  kbl(caption = &quot;Impeachment NO votes by percentage of constituents that hold a bachelor&#39;s degree (from lowest to highest)&quot;) %&gt;%
+  kbl(caption = &quot;Impeachment NO votes by percentage of constituents that hold a bachelor&#39;s degree (ordered from lowest to highest)&quot;) %&gt;%
     kable_classic(full_width = F, html_font = &quot;Cambria&quot;) </code></pre>
 <table class=" lightable-classic" style="font-family: Cambria; width: auto !important; margin-left: auto; margin-right: auto;">
 <caption>
-Impeachment NO votes by percentage of constituents that hold a bachelor’s degree (from lowest to highest)
+Impeachment NO votes by percentage of constituents that hold a bachelor’s degree (ordered from lowest to highest)
 </caption>
 <thead>
 <tr>
@@ -4245,11 +4245,11 @@ NJ
   select(first_name, last_name, party, district, date_year, clinton_percent)
 
 yes_impeachment_pre19 %&gt;%
-  kbl(caption = &quot;Impeachment YES votes from before 2019, arranged in order of their district&#39;s support for Clinton in 2016 (highest to lowest)&quot;) %&gt;%
+  kbl(caption = &quot;Impeachment YES votes cast before 2019, ordered according to their district&#39;s support for Clinton in 2016 (highest to lowest)&quot;) %&gt;%
     kable_classic(full_width = F, html_font = &quot;Cambria&quot;) </code></pre>
 <table class=" lightable-classic" style="font-family: Cambria; width: auto !important; margin-left: auto; margin-right: auto;">
 <caption>
-Impeachment YES votes from before 2019, arranged in order of their district’s support for Clinton in 2016 (highest to lowest)
+Impeachment YES votes cast before 2019, ordered according to their district’s support for Clinton in 2016 (highest to lowest)
 </caption>
 <thead>
 <tr>
@@ -4483,7 +4483,6 @@ no_impeachment_lowerGDP &lt;- impeach %&gt;%
   select(first_name, last_name, state, district)
 nrow(no_impeachment_lowerGDP) </code></pre>
 <pre><code>## [1] 19</code></pre>
-<p>Note that the <code>echo = FALSE</code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
 
 
 
