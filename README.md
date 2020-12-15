@@ -6,6 +6,8 @@ I am a senior at the George Washington University studying political communicati
 
 [Here](https://jacobliedke.github.io/RHomework/) is one of my R projects from earlier this semester. This HTML site was built using R Markdown and visualizes how some House Democrats voted during the impeachment of Donald Trump.
 
+My next R project from this semester, a visualization of some data from the Biden administration's transition website, can be viewed [here](https://jacobliedke.github.io/BidenTransition/).
+
 ### Resume
 
 My resume can be viewed [here.](https://jacobliedke.github.io/Resume/index.pdf)
@@ -22,6 +24,6 @@ My final paper from Introduction to Political Communication was a literature rev
 
 ### Support or Contact
 
-Contact me at jacobliedke@gmail.com or follow me [@liedkejacob](https://twitter.com/liedkejacob) on Twitter!
+Contact me at [jacobliedke@gmail.com](mailto:jacobliedke@gmail.com) or follow me [@liedkejacob](https://twitter.com/liedkejacob) on Twitter!
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/jacob-liedke/)
