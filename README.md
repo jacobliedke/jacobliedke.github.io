@@ -6,7 +6,7 @@ I am a senior at the George Washington University studying political communicati
 
 [Here](https://jacobliedke.github.io/RHomework/) is one of my R projects from earlier this semester. This HTML site was built using R Markdown and visualizes how some House Democrats voted during the impeachment of Donald Trump.
 
-My next R project from this semester, a visualization of some data from the Biden administration's transition website, can be viewed [here](https://jacobliedke.github.io/BidenTransition/).
+My next R project from this semester, a visualization of some data from the Biden administration's transition website, can be viewed [here](https://jacobliedke.github.io/BidenTransition/). A few of the tables included show changes in the different Agency Review and Senior Staff personnel announced by the campaign in between late November and early December.
 
 ### Resume
 
