@@ -2,6 +2,12 @@
 
 I am a senior at the George Washington University studying political communication in the School of Media and Public Affairs. I am passionate about learning more about the relationship between new media technologies and forms of contentious political behavior.
 
+
+### Resume
+
+My resume can be viewed [here.](https://jacobliedke.github.io/Resume/index.pdf)
+
+
 ### R Projects
 
 For the final project for my Data Journalism course, I also created a Flexdashboard HTML site to visualize some of the points from Biden's transition site that I list below. You can access the Flexdashboard site [here](https://jacobliedke.github.io/BidenTransitionFlex/).
@@ -10,9 +16,6 @@ My second R project from this semester, a visualization of some data from the Bi
 
 [Here](https://jacobliedke.github.io/RHomework/) is one of my R projects from earlier this semester. This HTML site was built using R Markdown and visualizes how some House Democrats voted during the impeachment of Donald Trump.
 
-### Resume
-
-My resume can be viewed [here.](https://jacobliedke.github.io/Resume/index.pdf)
 
 ### Research
 
@@ -23,6 +26,7 @@ You can read some of my research papers from my undergraduate courses below.
 You can also access my final research paper from my Data Analysis course [here](https://jacobliedke.github.io/Research/data_analysis_research.pdf). The survey research sought to investigate how people would respond to priming of a political candidate's inconsistent record.
 
 My final paper from Introduction to Political Communication was a literature review discussing the concept of performance as a consistent theme throughout the field of political communication. It can be accessed [here](https://jacobliedke.github.io/Research/performancec_in_polcomm.pdf).
+
 
 ### Support or Contact
 
