@@ -1,6 +1,6 @@
 ### About Me
 
-I am a senior at the George Washington University studying political communication in the School of Media and Public Affairs. I am passionate about learning more about the relationship between new media technologies and forms of contentious political behavior.
+I am a senior at the George Washington University studying political communication in the School of Media and Public Affairs. I am interested in the relationship between news media organizations, digital media, and public opinion.
 
 
 ### Resume
