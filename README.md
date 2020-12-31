@@ -21,7 +21,7 @@ My second R project (and its code) from this semester, a visualization of some d
 
 You can read some of my research papers from my undergraduate courses below.
 
-[Here](https://jacobliedke.github.io/Research/whole_country_is_watching.pdf) is the final copy of my undergraduate thesis, titled The Whole Country Is Watching: National Cable News Coverage of the Police Shooting of Jacob Blake and Subsequent Protests in Kenosha, Wisconsin. The research explores how cable television news framed the shooting of Jacob Blake, the protests that followed, as well as the shooting by Kyle Rittenhouse a few nights later.
+[Here](https://jacobliedke.github.io/Research/whole_country_is_watching.pdf) is the final copy of my undergraduate thesis, titled "The Whole Country Is Watching: National Cable News Coverage of the Police Shooting of Jacob Blake and Subsequent Protests in Kenosha, Wisconsin." The research explores how cable news programs framed the shooting of Jacob Blake, the protests that followed, as well as the shooting by Kyle Rittenhouse a few nights later.
 
 You can also access my final research paper from my Data Analysis course [here](https://jacobliedke.github.io/Research/data_analysis_research.pdf). The survey research sought to investigate how people would respond to priming of a political candidate's inconsistent record.
 
