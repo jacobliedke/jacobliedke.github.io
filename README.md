@@ -25,7 +25,7 @@ You can read some of my research papers from my undergraduate courses below.
 
 You can also access my final research paper from my Data Analysis course [here](https://jacobliedke.github.io/Research/data_analysis_research.pdf). The survey research sought to investigate how people would respond to priming of a political candidate's inconsistent record.
 
-My final paper from Introduction to Political Communication was a literature review discussing the concept of performance as a consistent theme throughout the field of political communication. It can be accessed [here](https://jacobliedke.github.io/Research/performancec_in_polcomm.pdf).
+One of my papers from Introduction to Political Communication was a literature review discussing the concept of performance as a consistent theme throughout the field of political communication. It can be accessed [here](https://jacobliedke.github.io/Research/performancec_in_polcomm.pdf).
 
 
 ### Support or Contact
